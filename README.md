@@ -2,7 +2,8 @@
 A simple quiz app built with kotlin
 
 ## _Screenshots_
-![image_1](https://assets.tomiwo.com/quizappkt/quizappkt1.jpg)
+
+<img src="https://assets.tomiwo.com/quizappkt/quizappkt1.jpg" alt="image_1" width="100" height="200"/>
 
 ![image_2](https://assets.tomiwo.com/quizappkt/quizappkt2.jpg)
 
